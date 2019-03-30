@@ -24,4 +24,4 @@ You'll need to install :
 
 * Seaborn
 
-* pisa2012.csv file used in this project is too big to upload.
+`pisa2012.csv` file used in this project is too big to upload.
